@@ -1,4 +1,4 @@
-langchain
+langchain==0.0.200
 openai
 wikipedia
 rdkit
