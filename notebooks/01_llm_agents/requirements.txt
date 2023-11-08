@@ -1,0 +1,5 @@
+langchain
+openai
+wikipedia
+rdkit
+requests
